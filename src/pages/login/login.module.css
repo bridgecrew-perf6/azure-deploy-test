@@ -1,0 +1,41 @@
+.container {
+    width: 100vw;
+    height: 100vh;
+    background-color: #E3027F;
+    text-align: center;
+    justify-content: center;
+}
+
+.image {
+    width: 20rem;
+    margin-top: 8rem;
+}
+
+.loginContainer {
+    background-color: #FFF;
+    width: 20%;
+    margin: 10rem auto;
+    border-radius: 0.3rem;
+    padding: 1rem;
+}
+
+.loginText {
+    width: 70%;
+    margin: auto;
+}
+
+.loginButton {
+    background-color: #E3027F;
+    width: 90%;
+    height: 2rem;
+    color: #FFF;
+    border: none;
+    border-radius: 1rem;
+    margin-top: 2rem;
+    text-transform: uppercase;
+}
+
+.loginButton:hover {
+    cursor: pointer;
+    background-color: #FF49AE;
+}
